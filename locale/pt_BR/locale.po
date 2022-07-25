@@ -1,0 +1,8 @@
+msgid "plugins.generic.customSubmissionWizard.name"
+msgstr "Assistente de Submissão Customizado"
+
+msgid "plugins.generic.customSubmissionWizard.description"
+msgstr "This plugin is an example created for a tutorial on how to create a plugin."
+
+msgid "plugins.generic.customSubmissionWizard.submit.uploadDataset"
+msgstr "Novo Passo."
